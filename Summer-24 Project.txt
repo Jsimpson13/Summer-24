@@ -1,0 +1,111 @@
+﻿Oden Project (https://www.theodinproject.com/paths/full-stack-javascript)
+
+
+School Helper
+Skills
+* Databases
+   * SQL
+* Backend
+   * Python 
+* UI
+   * HTML/CSS
+   * Javascript/React
+* Data scraping
+* AI models
+   * Pytorch
+
+
+Features
+   * Calender
+      * Assignments
+      * Exams 
+      * Projects
+      * Others non-school
+      * Class Schedule
+      * Holidays
+   * class page:
+      * assignments (data scraping + syllabus)
+      * notes section
+         * AI flashcards
+         * See Other peoples notes for classes
+         * Exam Prep open source
+      * Lectures
+         * Transcribe online lectures
+         * Listen to in person lectures
+         * Ai summarize notes off of lectures
+   * Need To Do List (prioritized)
+   * Additional resources(uses ai search)
+   * Questions chatbot (chat gpt)
+   * Assignment help AI
+   * Browser Add On
+   * Assignment scanner - AI do it
+   * AI generated exam prep 
+   * Grade/ GPA calculator 
+   * Future Class planner
+   * Registration Helper
+   * Online communities
+      * School or class based
+
+
+Things To Use
+* Databases (firebase/sql)
+* AI 
+* Full Stack Web development(HTML/ CSS)
+* App Development
+* Hardware display
+
+
+
+
+________________
+
+
+Sections
+Phase 1 (Manually Add Everything)
+
+
+* Calendar
+* Class Pages
+* Assignments
+* Notes
+* Todo List (different from calendar)
+* Database Storage
+* File upload (assignments / written notes / etc)
+
+
+Phase 2 (Outside Data)
+* Pull from d2l / other learning platforms (data scraping)
+   * Grade storage
+* Video / in person lecture text to speech
+* Registration Help
+* GPA calculator
+Phase 3 (AI Integration)
+* AI summary integration
+* AI Answer Help
+* Ai question chatbot
+* AI additional resources search
+* AI Exam Prep
+* Ai Notes
+
+
+Phase 4 (Collarboration)
+* Open source notes and exam help
+* Online communities 
+
+
+Phase 5 (app / hardware export)
+* App
+* Calendar Board
+________________
+Phase 1
+Steps:
+
+
+
+
+   1. Add Class
+   2. Add Assignments to class
+   3. Add notes to Assignments
+   4. Add everything to the calendar
+   5. Build Database and add Everything
+   6. Build UI
